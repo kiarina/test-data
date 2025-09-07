@@ -1,0 +1,5 @@
+.DS_Store
+.ai
+src/
+release/
+tests/
